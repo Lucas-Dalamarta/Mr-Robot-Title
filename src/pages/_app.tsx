@@ -8,8 +8,10 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
     <>
       <Head>
         <title>MR ROBOT TITLE</title>
-        <link rel="icon" href="/favicon.ico" />
+        <link rel="shortcut icon" href="/favicon.png" />
+        <link rel="apple-touch-icon" href="/favicon.png" />
 
+        <link rel="manifest" href="/manifest.json" />
         <meta
           name="description"
           content="Mr Robot's title recreation in ReactJS"
