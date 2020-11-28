@@ -8,8 +8,8 @@
       "sizes": "192x192"
     },
     {
-      "src": "/img/wrench.svg",
-      "type": "image/svg",
+      "src": "/img/wrench.png",
+      "type": "image/png",
       "sizes": "512x512"
     }
   ],
