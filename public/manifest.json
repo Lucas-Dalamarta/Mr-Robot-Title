@@ -3,12 +3,12 @@
   "short_name": "Mr Robot Title",
   "icons": [
     {
-      "src": "/vercel.svg",
-      "type": "image/svg",
+      "src": "/img/wrench.png",
+      "type": "image/png",
       "sizes": "192x192"
     },
     {
-      "src": "/vercel.svg",
+      "src": "/img/wrench.svg",
       "type": "image/svg",
       "sizes": "512x512"
     }
