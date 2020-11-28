@@ -9,6 +9,11 @@ const MyApp = ({ Component, pageProps }: AppProps) => {
       <Head>
         <title>MR ROBOT TITLE</title>
         <link rel="icon" href="/favicon.ico" />
+
+        <meta
+          name="description"
+          content="Mr Robot's title recreation in ReactJS"
+        />
       </Head>
 
       <GlobalStyles />
